@@ -1,0 +1,6 @@
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\bin\Debug\PrinterQueueStatus.dll
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\bin\Debug\PrinterQueueStatus.pdb
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\obj\Debug\PrinterQueueStatus.csprojAssemblyReference.cache
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\obj\Debug\PrinterQueueStatus.csproj.CoreCompileInputs.cache
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\obj\Debug\PrinterQueueStatus.dll
+C:\Users\johnny.abouhaidar\source\repos\PrinterQueueStatus\PrinterQueueStatus\obj\Debug\PrinterQueueStatus.pdb
